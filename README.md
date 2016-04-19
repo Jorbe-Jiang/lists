@@ -1,5 +1,13 @@
 lists 每周的任务。
 =========================
+
+2016/4/18 周一
+-------------
+283 Move zeroes (https://leetcode.com/problems/move-zeroes/) easy
+136 Single Number (https://leetcode.com/problems/single-number/) medium
+260 Single Number III (https://leetcode.com/problems/single-number-iii/) medium
+268 Missing Number (https://leetcode.com/problems/missing-number/) medium
+
 2016/4/11 周一
 ---------------
 
